@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import './App.css';
 import Header from './components/Header/Header'
 function App() {
   return (
@@ -64,7 +63,7 @@ function App() {
                     <input type="text" className="form__field" placeholder="Ваш e-mail"/>
                 </div>
                     <textarea className="form__text form__field" placeholder="Сообщение"></textarea>
-                <button className="form__button">ОТПРАВИТЬ< /button>
+                <button className="form__button">ОТПРАВИТЬ</button>
             </form>
         </section></div>
     </main>

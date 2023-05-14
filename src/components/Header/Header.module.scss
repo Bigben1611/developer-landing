@@ -1,0 +1,20 @@
+.header{
+    background-color: #EEEFF1;
+    padding: 40px 0 150px 0;
+}
+.links{
+    display: flex;
+    gap: 42px;
+    justify-content: flex-end;
+    margin-bottom: 150px;
+    &>a{
+        font-weight: 500;
+        font-size: 16px;
+        text-decoration: none;
+        color: #34547A;
+    }
+}
+.bot{
+    display: flex;
+    gap: 130px;
+}
